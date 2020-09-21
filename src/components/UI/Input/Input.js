@@ -2,7 +2,6 @@ import React from 'react';
 import './Input.css';
 
 const Input = (props) => {
-    // console.log("--------->>>>>", props);
     let inputElement = null;
     let ValidationError = null;
     const classes = ["InputElement"];

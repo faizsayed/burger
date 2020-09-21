@@ -33,8 +33,6 @@ class Checkout extends Component {
                 </div>
             );
         }
-
-        //console.log("----->>>", this.props);
         return summery;
     }
 }
