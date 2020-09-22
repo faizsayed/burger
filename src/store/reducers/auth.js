@@ -4,8 +4,8 @@ import * as actionTypes from '../actions/actionTypes';
     token: null,
     userId: null,
     error: null,
-    loading: false,
-    authRedirectPath: '/'
+    authRedirectPath: '/',
+    loading: false
     
  };
 
